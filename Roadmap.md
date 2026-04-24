@@ -3,18 +3,18 @@
 ## Sprint 1 (Weeks 1–2)
 
 ### Research & Setup
-- [ ] Find and analyze existing food recommendation repositories
-- [ ] Clone selected GitHub repository
-- [ ] Run the project locally and document setup issues
+- [DONE ] Find and analyze existing food recommendation repositories
+- [DONE ] Clone selected GitHub repository
+- [DONE ] Run the project locally and document setup issues
 
 ### Planning
-- [ ] Define food categories (mood, budget, time)
+- [DONE ] Define food categories (mood, budget, time)
 - [ ] Create data structure for food database
 - [ ] Design user input flow
 
 ### Development Tasks
 - [ ] Build basic user input system
-- [ ] Create initial food recommendation logic
+- [ DONE] Create initial food recommendation logic
 - [ ] Implement random food generator feature
 
 ### Testing
