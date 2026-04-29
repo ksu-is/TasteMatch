@@ -1,6 +1,6 @@
 import random
 
-# Food database (expanded with categories)
+# Food database 
 foods = [
     {"name": "Pizza", "mood": "comfort", "budget": "medium"},
     {"name": "Pasta", "mood": "comfort", "budget": "low"},
@@ -22,7 +22,7 @@ messages = [
 ]
 
 def tastematch():
-    print("Welcome to TasteMatch!")
+    print("🍽️ Welcome to TasteMatch!")
 
     while True: 
         mood = input("\nWhat mood are you in? (comfort, spicy, healthy, adventurous) or press Enter to quit: ").lower()
@@ -54,5 +54,5 @@ def tastematch():
         print(f"\n You should try: {choice}🍴")
         print(f"{message}")
 
-    # Run the program
-    tastematch()
+# Run the program
+tastematch()
